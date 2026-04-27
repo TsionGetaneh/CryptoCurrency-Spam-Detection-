@@ -1,12 +1,12 @@
 {
-<<<<<<< HEAD
+
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
   ]
 }
-=======
+
   "compilerOptions": {
     "module": "commonjs",
     "declaration": true,
